@@ -3,11 +3,8 @@
 ## Project Overview
 This project implements a virtual keyboard that can be controlled using hand gestures captured through a webcam. Users can type by making pinching gestures in the air, making typing possible without physical contact with any surface.
 
-## Contributors
-This project was developed through the collaborative efforts of:
-- **Jaival** - Initial development with limited features 
-- **Deep** - Added some more features to the keyboard, improved UI and Improved Code readability. 
-
+## Contributor
+This project was developed via sole proprietorship.
 ## Demo Video 🎬
 
 Check out a **Demo Video** highlighting the Gesture-Based Virtual Keyboard's main features, including gesture-controlled typing, saving it into a file, and more. Click below to see it in action:
@@ -108,5 +105,4 @@ This project is licensed to Deep Das, Jaival Chauhan and we expect a sincere cod
 
 ## Contact
 For any queries regarding this project, please reach out to:
-- Jaival - u23ai035@coed.svnit.ac.in
-- Deep - u23ai052@coed.svnit.ac.in
+- Hassan : hassanjatala.2006@gmail.com
